@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(255, 231, 196);
+}
+
+h1{
+    text-align: center;
+    color: #a0522d;
+}
+
+h2{
+    text-align: center;
+}
+
+footer{
+    background-color: #a0522d;
+    color: grey;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    border: 2px solid #a0522d;
+    border-radius: 10px;
+    padding: 10px;
+    background-color:light;
+}
+
+h8{
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    border: #a0522d;
+    border-radius: 10px;
+}
