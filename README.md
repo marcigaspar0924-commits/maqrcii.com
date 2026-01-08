@@ -1,1 +1,1 @@
-# maqrcii.com
+# osziproject.com
